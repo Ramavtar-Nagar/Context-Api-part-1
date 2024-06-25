@@ -11,9 +11,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project demonstrates the basic usage of Context API in a React application. It includes setting up a context, a context provider, and fetching values from the context provider using the `useContext` hook.
@@ -33,7 +30,7 @@ This project demonstrates the basic usage of Context API in a React application.
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/context-api-project.git
+    git clone https://github.com/Ramavtar-Nagar/context-api-project.git
     ```
 2. Navigate to the project directory:
     ```bash
