@@ -20,12 +20,15 @@ function Login(){
             <input type="text"
             value={username}
             onChange={(e) => setUsername(e.target.value)}
-            placeholder="Username" />
+            placeholder="Username"
+            />
+            {" "}
 
             <input type="text"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             placeholder="Password"/>
+            {" "}
 
             <button onClick={handleSubmit}>Submit</button>
         </>
